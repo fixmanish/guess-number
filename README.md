@@ -30,7 +30,7 @@ When the player enters the correct number, the game screen turns green 🟢, and
 
 ## Getting Started 🚀
 
-1. Clone the repository: `git clone https://github.com/your-username/number-guessing-game.git`
+1. Clone the repository: `git clone https://github.com/fixmanish/guess-number.git`
 2. Open the index.html file in your preferred web browser.
 3. Start playing the Number Guessing Game!
 
