@@ -4,6 +4,8 @@
 
 This Number Guessing Game project is developed as part of the JavaScript BootCamp led by Jonas Schemedtman on Udemy. The game showcases the concept of DOM Manipulation and provides an interactive guessing experience for players.
 
+Give a shot here - https://fixmanish.github.io/guess-number/
+
 ## Game Overview 📖
 
 In this game, a random number is generated behind the scenes, and the player's task is to guess the number by typing it into the input field. The game interface displays the current score, which starts at 20 ⭐️, and deducts one point for each incorrect attempt.
